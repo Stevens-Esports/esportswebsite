@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/esportswebsite/static/css/main.aef75fcd.chunk.css",
-    "main.js": "/esportswebsite/static/js/main.bc08c4b9.chunk.js",
-    "main.js.map": "/esportswebsite/static/js/main.bc08c4b9.chunk.js.map",
+    "main.js": "/esportswebsite/static/js/main.a186fd2f.chunk.js",
+    "main.js.map": "/esportswebsite/static/js/main.a186fd2f.chunk.js.map",
     "runtime-main.js": "/esportswebsite/static/js/runtime-main.c3dbfa27.js",
     "runtime-main.js.map": "/esportswebsite/static/js/runtime-main.c3dbfa27.js.map",
     "static/css/2.47e06e2e.chunk.css": "/esportswebsite/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.1a2d2044.chunk.js": "/esportswebsite/static/js/2.1a2d2044.chunk.js",
-    "static/js/2.1a2d2044.chunk.js.map": "/esportswebsite/static/js/2.1a2d2044.chunk.js.map",
+    "static/js/2.1a691998.chunk.js": "/esportswebsite/static/js/2.1a691998.chunk.js",
+    "static/js/2.1a691998.chunk.js.map": "/esportswebsite/static/js/2.1a691998.chunk.js.map",
     "index.html": "/esportswebsite/index.html",
-    "precache-manifest.ad4b2a6ae960c272e100bf11f70ced7d.js": "/esportswebsite/precache-manifest.ad4b2a6ae960c272e100bf11f70ced7d.js",
+    "precache-manifest.64dea94de9362675d117576a6f427411.js": "/esportswebsite/precache-manifest.64dea94de9362675d117576a6f427411.js",
     "service-worker.js": "/esportswebsite/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/esportswebsite/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.aef75fcd.chunk.css.map": "/esportswebsite/static/css/main.aef75fcd.chunk.css.map",
-    "static/js/2.1a2d2044.chunk.js.LICENSE": "/esportswebsite/static/js/2.1a2d2044.chunk.js.LICENSE",
+    "static/js/2.1a691998.chunk.js.LICENSE": "/esportswebsite/static/js/2.1a691998.chunk.js.LICENSE",
     "static/media/Aaron Ng.jpg": "/esportswebsite/static/media/Aaron Ng.64d7279a.jpg",
     "static/media/CLoLLogo.png": "/esportswebsite/static/media/CLoLLogo.cdd30960.png",
     "static/media/Gregory Mazza.jpeg": "/esportswebsite/static/media/Gregory Mazza.c40dc368.jpeg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.c3dbfa27.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.1a2d2044.chunk.js",
+    "static/js/2.1a691998.chunk.js",
     "static/css/main.aef75fcd.chunk.css",
-    "static/js/main.bc08c4b9.chunk.js"
+    "static/js/main.a186fd2f.chunk.js"
   ]
 }
