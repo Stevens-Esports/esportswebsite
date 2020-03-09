@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/esportswebsite/static/css/main.aef75fcd.chunk.css",
-    "main.js": "/esportswebsite/static/js/main.a186fd2f.chunk.js",
-    "main.js.map": "/esportswebsite/static/js/main.a186fd2f.chunk.js.map",
+    "main.js": "/esportswebsite/static/js/main.25263f2c.chunk.js",
+    "main.js.map": "/esportswebsite/static/js/main.25263f2c.chunk.js.map",
     "runtime-main.js": "/esportswebsite/static/js/runtime-main.c3dbfa27.js",
     "runtime-main.js.map": "/esportswebsite/static/js/runtime-main.c3dbfa27.js.map",
     "static/css/2.47e06e2e.chunk.css": "/esportswebsite/static/css/2.47e06e2e.chunk.css",
     "static/js/2.1a691998.chunk.js": "/esportswebsite/static/js/2.1a691998.chunk.js",
     "static/js/2.1a691998.chunk.js.map": "/esportswebsite/static/js/2.1a691998.chunk.js.map",
     "index.html": "/esportswebsite/index.html",
-    "precache-manifest.64dea94de9362675d117576a6f427411.js": "/esportswebsite/precache-manifest.64dea94de9362675d117576a6f427411.js",
+    "precache-manifest.819add4d61f067a3de7a8abd177835cf.js": "/esportswebsite/precache-manifest.819add4d61f067a3de7a8abd177835cf.js",
     "service-worker.js": "/esportswebsite/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/esportswebsite/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.aef75fcd.chunk.css.map": "/esportswebsite/static/css/main.aef75fcd.chunk.css.map",
@@ -40,6 +40,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.1a691998.chunk.js",
     "static/css/main.aef75fcd.chunk.css",
-    "static/js/main.a186fd2f.chunk.js"
+    "static/js/main.25263f2c.chunk.js"
   ]
 }
