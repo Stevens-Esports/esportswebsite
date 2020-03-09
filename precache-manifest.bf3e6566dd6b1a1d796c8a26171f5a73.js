@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffa666973a140ea3397c54566eb5d72e",
+    "revision": "18910be32d0733f772b5b48931edaae6",
     "url": "/esportswebsite/index.html"
   },
   {
-    "revision": "a4f680c7664b4edf96c4",
+    "revision": "da30071f5d230f643e52",
     "url": "/esportswebsite/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "70f9a8493dc83aefb7f1",
+    "revision": "9f6cba73044e7f0505aa",
     "url": "/esportswebsite/static/css/main.aef75fcd.chunk.css"
   },
   {
-    "revision": "a4f680c7664b4edf96c4",
-    "url": "/esportswebsite/static/js/2.bb1edbf0.chunk.js"
+    "revision": "da30071f5d230f643e52",
+    "url": "/esportswebsite/static/js/2.1a2d2044.chunk.js"
   },
   {
     "revision": "926f2af794523fb9dc865b25993fd9f5",
-    "url": "/esportswebsite/static/js/2.bb1edbf0.chunk.js.LICENSE"
+    "url": "/esportswebsite/static/js/2.1a2d2044.chunk.js.LICENSE"
   },
   {
-    "revision": "70f9a8493dc83aefb7f1",
-    "url": "/esportswebsite/static/js/main.ce7f2f2f.chunk.js"
+    "revision": "9f6cba73044e7f0505aa",
+    "url": "/esportswebsite/static/js/main.6f72eb03.chunk.js"
   },
   {
     "revision": "28e506322abe8a1db0e2",
